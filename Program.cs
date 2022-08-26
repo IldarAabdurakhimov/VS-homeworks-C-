@@ -10,3 +10,4 @@
     
       }
       Console.WriteLine($"сумма цифр в числах = {Res}");
+      
